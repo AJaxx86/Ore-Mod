@@ -1,0 +1,23 @@
+{
+  "_fv": 5,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "endorium_hoe",
+    "customModelName": "Normal",
+    "name": "Endorium Hoe",
+    "creativeTab": {
+      "value": "TOOLS"
+    },
+    "toolType": "Hoe",
+    "harvestLevel": 4,
+    "efficiency": 12.0,
+    "attackSpeed": 1.0,
+    "enchantability": 28,
+    "damageVsEntity": 1.0,
+    "usageCount": 2450,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": []
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "_fv": 5,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "endorium_sword",
+    "customModelName": "Normal",
+    "name": "Endorium Sword",
+    "creativeTab": {
+      "value": "COMBAT"
+    },
+    "toolType": "Sword",
+    "harvestLevel": 4,
+    "efficiency": 9.0,
+    "attackSpeed": 1.8,
+    "enchantability": 28,
+    "damageVsEntity": 10.0,
+    "usageCount": 2450,
+    "blocksAffected": [],
+    "hasGlow": true,
+    "repairItems": []
+  }
+}

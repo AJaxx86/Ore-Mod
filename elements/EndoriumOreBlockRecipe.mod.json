@@ -1,0 +1,45 @@
+{
+  "_fv": 5,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "recipeShapeless": false,
+    "recipeReturnStack": {
+      "value": "CUSTOM:EndoriumOreBlock"
+    },
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:EndoriumGem"
+      },
+      {
+        "value": "CUSTOM:EndoriumGem"
+      },
+      {
+        "value": "CUSTOM:EndoriumGem"
+      },
+      {
+        "value": "CUSTOM:EndoriumGem"
+      },
+      {
+        "value": "CUSTOM:EndoriumGem"
+      },
+      {
+        "value": "CUSTOM:EndoriumGem"
+      },
+      {
+        "value": "CUSTOM:EndoriumGem"
+      },
+      {
+        "value": "CUSTOM:EndoriumGem"
+      },
+      {
+        "value": "CUSTOM:EndoriumGem"
+      }
+    ],
+    "smeltingXPReward": 0.0,
+    "smeltingRetstackSize": 1,
+    "name": "endoriumoreblockrecipe",
+    "namespace": "mod"
+  }
+}
