@@ -1,0 +1,30 @@
+{
+  "group": "test",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    " 4 ",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "test:infused_diamondgem"
+    },
+    "1": {
+      "item": "test:infused_diamondgem"
+    },
+    "2": {
+      "item": "test:infused_diamondgem"
+    },
+    "4": {
+      "item": "minecraft:stick"
+    },
+    "7": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "test:infuseddiamondpickaxe",
+    "count": 1
+  }
+}

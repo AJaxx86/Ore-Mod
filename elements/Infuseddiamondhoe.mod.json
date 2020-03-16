@@ -1,0 +1,27 @@
+{
+  "_fv": 5,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "infused_diamond_hoe",
+    "customModelName": "Normal",
+    "name": "Infused Diamond Hoe",
+    "creativeTab": {
+      "value": "TOOLS"
+    },
+    "toolType": "Hoe",
+    "harvestLevel": 1,
+    "efficiency": 10.0,
+    "attackSpeed": 4.0,
+    "enchantability": 12,
+    "damageVsEntity": 1.0,
+    "usageCount": 1824,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "CUSTOM:Infused_diamondGem"
+      }
+    ]
+  }
+}

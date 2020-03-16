@@ -1,0 +1,27 @@
+{
+  "_fv": 5,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "infused_diamond_axe",
+    "customModelName": "Normal",
+    "name": "Infused Diamond Axe",
+    "creativeTab": {
+      "value": "TOOLS"
+    },
+    "toolType": "Axe",
+    "harvestLevel": 3,
+    "efficiency": 10.0,
+    "attackSpeed": 1.0,
+    "enchantability": 12,
+    "damageVsEntity": 10.0,
+    "usageCount": 1824,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "CUSTOM:Infused_diamondGem"
+      }
+    ]
+  }
+}

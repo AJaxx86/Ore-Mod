@@ -1,0 +1,19 @@
+{
+  "_fv": 5,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Smelting",
+    "recipeRetstackSize": 0,
+    "recipeShapeless": false,
+    "smeltingInputStack": {
+      "value": "CUSTOM:Infused_diamondOre"
+    },
+    "smeltingReturnStack": {
+      "value": "CUSTOM:Infused_diamondGem"
+    },
+    "smeltingXPReward": 0.0,
+    "smeltingRetstackSize": 1,
+    "name": "infused_diamondoresmelting",
+    "namespace": "mod"
+  }
+}

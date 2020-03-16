@@ -1,0 +1,51 @@
+{
+  "_fv": 5,
+  "_type": "armor",
+  "definition": {
+    "enableHelmet": true,
+    "textureHelmet": "infused_diamond_helmet",
+    "enableBody": true,
+    "textureBody": "infused_diamond_chestplate",
+    "enableLeggings": true,
+    "textureLeggings": "infused_diamond_leggings",
+    "enableBoots": true,
+    "textureBoots": "infused_diamond_boots",
+    "creativeTab": {
+      "value": "COMBAT"
+    },
+    "armorTextureFile": "infused_diamond",
+    "helmetName": "Infused Diamond Helmet",
+    "bodyName": "Infused Diamond Chestplate",
+    "leggingsName": "Infused Diamond Leggings",
+    "bootsName": "Infused Diamond Boots",
+    "helmetModelName": "Default",
+    "helmetModelPart": "Helmet",
+    "helmetModelTexture": "From armor",
+    "bodyModelName": "Default",
+    "bodyModelPart": "Body",
+    "bodyModelTexture": "From armor",
+    "leggingsModelName": "Default",
+    "leggingsModelPartL": "Leggings L",
+    "leggingsModelPartR": "Leggings R",
+    "leggingsModelTexture": "From armor",
+    "bootsModelName": "Default",
+    "bootsModelPartL": "Boots L",
+    "bootsModelPartR": "Boots R",
+    "bootsModelTexture": "From armor",
+    "maxDamage": 15,
+    "damageValueHelmet": 3,
+    "damageValueBody": 8,
+    "damageValueLeggings": 6,
+    "damageValueBoots": 3,
+    "enchantability": 12,
+    "toughness": 3.0,
+    "equipSound": {
+      "value": ""
+    },
+    "repairItems": [
+      {
+        "value": "CUSTOM:Infused_diamondGem"
+      }
+    ]
+  }
+}

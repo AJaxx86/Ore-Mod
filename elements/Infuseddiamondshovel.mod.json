@@ -1,0 +1,27 @@
+{
+  "_fv": 5,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "infused_diamond_shovel",
+    "customModelName": "Normal",
+    "name": "Infused Diamond Shovel",
+    "creativeTab": {
+      "value": "TOOLS"
+    },
+    "toolType": "Spade",
+    "harvestLevel": 3,
+    "efficiency": 10.0,
+    "attackSpeed": 1.0,
+    "enchantability": 12,
+    "damageVsEntity": 6.0,
+    "usageCount": 1824,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "CUSTOM:Infused_diamondGem"
+      }
+    ]
+  }
+}

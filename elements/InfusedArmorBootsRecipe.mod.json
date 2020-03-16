@@ -1,0 +1,45 @@
+{
+  "_fv": 5,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "recipeShapeless": false,
+    "recipeReturnStack": {
+      "value": "CUSTOM:InfusedArmor.boots"
+    },
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:Infused_diamondGem"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:Infused_diamondGem"
+      },
+      {
+        "value": "CUSTOM:Infused_diamondGem"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:Infused_diamondGem"
+      }
+    ],
+    "smeltingXPReward": 0.0,
+    "smeltingRetstackSize": 1,
+    "name": "infusedarmorbootsrecipe",
+    "namespace": "mod"
+  }
+}

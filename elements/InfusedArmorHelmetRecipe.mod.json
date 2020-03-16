@@ -1,0 +1,45 @@
+{
+  "_fv": 5,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "recipeShapeless": false,
+    "recipeReturnStack": {
+      "value": "CUSTOM:InfusedArmor.helmet"
+    },
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:Infused_diamondGem"
+      },
+      {
+        "value": "CUSTOM:Infused_diamondGem"
+      },
+      {
+        "value": "CUSTOM:Infused_diamondGem"
+      },
+      {
+        "value": "CUSTOM:Infused_diamondGem"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:Infused_diamondGem"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      }
+    ],
+    "smeltingXPReward": 0.0,
+    "smeltingRetstackSize": 1,
+    "name": "infusedarmorhelmetrecipe",
+    "namespace": "mod"
+  }
+}
