@@ -1,0 +1,30 @@
+{
+  "group": "ore_mod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    " 4 ",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "ore_mod:infused_diamondgem"
+    },
+    "1": {
+      "item": "ore_mod:infused_diamondgem"
+    },
+    "2": {
+      "item": "ore_mod:infused_diamondgem"
+    },
+    "4": {
+      "item": "minecraft:stick"
+    },
+    "7": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "ore_mod:infuseddiamondpickaxe",
+    "count": 1
+  }
+}

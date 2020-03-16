@@ -1,0 +1,13 @@
+{
+  "group": "ore_mod",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "ore_mod:infused_diamondoreblock"
+    }
+  ],
+  "result": {
+    "item": "ore_mod:infused_diamondgem",
+    "count": 9
+  }
+}

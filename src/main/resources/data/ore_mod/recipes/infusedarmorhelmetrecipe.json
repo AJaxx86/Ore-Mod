@@ -1,0 +1,29 @@
+{
+  "group": "ore_mod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "ore_mod:infused_diamondgem"
+    },
+    "1": {
+      "item": "ore_mod:infused_diamondgem"
+    },
+    "2": {
+      "item": "ore_mod:infused_diamondgem"
+    },
+    "3": {
+      "item": "ore_mod:infused_diamondgem"
+    },
+    "5": {
+      "item": "ore_mod:infused_diamondgem"
+    }
+  },
+  "result": {
+    "item": "ore_mod:infusedarmorhelmet",
+    "count": 1
+  }
+}

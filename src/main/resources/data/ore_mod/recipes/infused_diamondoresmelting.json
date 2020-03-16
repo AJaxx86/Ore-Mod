@@ -1,0 +1,11 @@
+{
+  "group": "ore_mod",
+  "type": "minecraft:smelting",
+  "experience": 0,
+  "ingredient": {
+    "item": "minecraft:air"
+  },
+  "result": {
+    "item": "ore_mod:infused_diamondgem"
+  }
+}

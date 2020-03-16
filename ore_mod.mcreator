@@ -1,0 +1,226 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "Infused_diamondOreBlock",
+      "type": "block",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Infused_diamondGem",
+      "type": "item",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Infused_diamondOreBlockRecipe",
+      "type": "recipe",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Infused_diamondBlockOreRecipe",
+      "type": "recipe",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Infused_diamondOreSmelting",
+      "type": "recipe",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Infuseddiamondsword",
+      "type": "tool",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Recipeinfuseddiamondsword",
+      "type": "recipe",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Infuseddiamondpickaxe",
+      "type": "tool",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Recipeinfuseddiamondpickaxe",
+      "type": "recipe",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Infuseddiamondaxe",
+      "type": "tool",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Recipeinfuseddiamondaxe",
+      "type": "recipe",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Infuseddiamondshovel",
+      "type": "tool",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Recipeinfuseddiamondshovel",
+      "type": "recipe",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Infuseddiamondhoe",
+      "type": "tool",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Recipeinfuseddiamondhoe",
+      "type": "recipe",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "InfusedArmor",
+      "type": "armor",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "InfusedArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "InfusedArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "InfusedArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "InfusedArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Infuseddiamondore",
+      "type": "block",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "item.ore_mod.infuseddiamondhoe": "Infused Diamond Hoe",
+      "item.ore_mod.infusedarmorbody": "Infused Diamond Chestplate",
+      "item.test.infusedarmorlegs": "Infused Diamond Leggings",
+      "item.test.infusedarmorhelmet": "Infused Diamond Helmet",
+      "item.test.infusedarmorbody": "Infused Diamond Chestplate",
+      "item.ore_mod.infusedarmorhelmet": "Infused Diamond Helmet",
+      "item.ore_mod.infuseddiamondshovel": "Infused Diamond Shovel",
+      "item.ore_mod.infuseddiamondaxe": "Infused Diamond Axe",
+      "block.ore_mod.infused_diamondoreblock": "Block of Infused Diamond",
+      "item.test.infuseddiamondsword": "Infused Diamond Sword",
+      "item.ore_mod.infusedarmorlegs": "Infused Diamond Leggings",
+      "item.ore_mod.infused_diamondgem": "Infused Diamond",
+      "item.ore_mod.infuseddiamondpickaxe": "Infused Diamond Pickaxe",
+      "item.ore_mod.infusedarmorboots": "Infused Diamond Boots",
+      "item.test.infuseddiamondaxe": "Infused Diamond Axe",
+      "item.test.infuseddiamondshovel": "Infused Diamond Shovel",
+      "item.test.infusedarmorboots": "Infused Diamond Boots",
+      "item.ore_mod.infuseddiamondsword": "Infused Diamond Sword",
+      "item.test.infuseddiamondhoe": "Infused Diamond Hoe",
+      "block.ore_mod.infuseddiamondore": "Infused Diamond Ore",
+      "block.test.infused_diamondoreblock": "Block of Infused Diamond",
+      "item.test.infuseddiamondpickaxe": "Infused Diamond Pickaxe",
+      "item.test.infused_diamondgem": "Infused Diamond",
+      "block.test.infuseddiamondore": "Infused Diamond Ore"
+    }
+  },
+  "workspaceSettings": {
+    "modid": "ore_mod",
+    "modName": "Ore Mod",
+    "version": "1.0.0",
+    "author": "AJaxx",
+    "websiteURL": "https://mcreator.net",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "1.14.4",
+    "usesProFeatures": false,
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202000105419
+}

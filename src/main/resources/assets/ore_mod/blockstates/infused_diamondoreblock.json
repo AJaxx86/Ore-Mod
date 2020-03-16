@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "ore_mod:block/infused_diamondoreblock"
+    }
+  }
+}

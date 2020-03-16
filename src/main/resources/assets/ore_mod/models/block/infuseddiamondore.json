@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "ore_mod:blocks/infused_diamond_ore",
+    "up": "ore_mod:blocks/infused_diamond_ore",
+    "north": "ore_mod:blocks/infused_diamond_ore",
+    "east": "ore_mod:blocks/infused_diamond_ore",
+    "south": "ore_mod:blocks/infused_diamond_ore",
+    "west": "ore_mod:blocks/infused_diamond_ore",
+    "particle": "ore_mod:blocks/infused_diamond_ore"
+  }
+}

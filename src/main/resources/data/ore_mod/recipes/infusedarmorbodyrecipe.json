@@ -1,0 +1,39 @@
+{
+  "group": "ore_mod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "ore_mod:infused_diamondgem"
+    },
+    "2": {
+      "item": "ore_mod:infused_diamondgem"
+    },
+    "3": {
+      "item": "ore_mod:infused_diamondgem"
+    },
+    "4": {
+      "item": "ore_mod:infused_diamondgem"
+    },
+    "5": {
+      "item": "ore_mod:infused_diamondgem"
+    },
+    "6": {
+      "item": "ore_mod:infused_diamondgem"
+    },
+    "7": {
+      "item": "ore_mod:infused_diamondgem"
+    },
+    "8": {
+      "item": "ore_mod:infused_diamondgem"
+    }
+  },
+  "result": {
+    "item": "ore_mod:infusedarmorbody",
+    "count": 1
+  }
+}
